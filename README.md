@@ -11,4 +11,4 @@ Running the Game:
 open the game folder and locate LavaJump.exe. Right click the file and hit open. Make sure not to delete any files 
 associated with the game as this could prevent the game from launching
 
-[ALT](
+
